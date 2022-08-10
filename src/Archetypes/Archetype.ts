@@ -1,6 +1,6 @@
 import { EnergyType } from '../Energy';
 
-abstract class Archtype {
+abstract class Archetype {
   private _special:number;
   private _cost:number;
   constructor(private _name:string) {
@@ -27,4 +27,4 @@ abstract class Archtype {
   abstract get energyType():EnergyType;
 }
 
-export default Archtype;
+export default Archetype;
