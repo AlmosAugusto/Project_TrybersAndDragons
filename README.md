@@ -1,13 +1,37 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Boas vindas ao repositório do projeto Trybers And Dragons!!
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<details>
+  <summary>
+    <strong>:memo: Sobre o projeto</strong>
+  </summary><br>
+  
+  - Projeto Trybers And Dragons desenvolvido na Trybe no módulo de Back-End..
+  
+  - Aplicar os princípios da arquitetura SOLID e os princípios de POO em uma estrutura de jogos, mais conhecido como jogos RPG(Role Playing Game), construindo raças, arquétipos, personagens. ⚔️ 🐲
+</details>
+
+<details>
+  <summary>
+    <strong>:wrench: Tecnologias utilizadas</strong>
+  </summary><br>
+  
+  - TypeScript 
+  - Poo
+  - Solid
+  
+</details>
+
+<details>
+  <summary>
+    <strong>Habilidades</strong>
+  </summary><br>
+  Neste projeto, foi verificado como:
+
+* Aplicar o conhecimento dos pilares da Programação Orientada a Objetos: Herança, Abstração, Encapsulamento e Polimorfismo;
+* Aplicar a utilização de Composição;
+* Aplicar a criação e utilização de Interfaces;
+* Implementar, em TypeScript: Classes, Instâncias, Atributos, Métodos e Objetos;
+* Aplicar os conhecimentos e aplicaçoẽs dos princípios SOLID.
+
+
